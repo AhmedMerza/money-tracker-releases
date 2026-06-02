@@ -1,12 +1,53 @@
-# MoneyTrack — Releases
+<div align="center">
 
-**MoneyTrack** is a privacy-first Android money tracker built for Bahrain bank
-SMS. It auto-creates transactions from your bank's text messages, categorizes
-them with rules + a learning layer, and reminds you to review the rest.
-**Everything stays on your phone — there's no server.**
+# MoneyTrack
 
-This repo hosts the signed APK releases. Source code lives in
-[**money-tracker**](https://github.com/AhmedMerza/money-tracker).
+**A privacy-first money tracker for Bahrain — built around your bank's SMS.**
+
+It reads your bank text messages, turns each one into a categorized transaction,
+and nudges you to review the few it isn't sure about. No account. No server.
+**Everything stays on your phone.**
+
+[![Download latest](https://img.shields.io/github/v/release/AhmedMerza/money-tracker-releases?label=Download%20APK&style=for-the-badge&color=22C55E)](https://github.com/AhmedMerza/money-tracker-releases/releases/latest)
+
+</div>
+
+---
+
+## ✨ What it does
+
+- **Auto-logging from bank SMS** — card purchases, Fawri / Fawri+ transfers, and
+  bank charges are parsed the moment they arrive. Nothing to type.
+- **Smart categorization** — a built-in rule set (~80 merchants out of the box)
+  assigns categories by merchant, sender, or amount. Anything it can't place
+  lands in a **"to review"** list so your books are never silently wrong.
+- **Your own rules & categories** — a two-level category tree (parent + sub),
+  plus a simple *"merchant contains keyword → category"* editor you fully control.
+- **Monthly view** — each month stands on its own: money in, money out, net, and
+  a per-day breakdown.
+- **Manual entries** — add cash spending or anything off-SMS in a couple of taps.
+- **Make it yours** — light / dark / system themes, dark-tone and surface styles,
+  and an optional launch animation.
+- **Optional Google Drive backup** — to a **private, app-only** folder you own.
+- **In-app updates** — check for new versions (or auto-check on open) and read the
+  changelog right inside the app.
+
+---
+
+## 📱 Screenshots
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/transactions.png" width="220"><br><b>Monthly transactions</b></td>
+    <td align="center"><img src="screenshots/add-transaction.png" width="220"><br><b>Add &amp; categorize</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/rules.png" width="220"><br><b>Custom rules</b></td>
+    <td align="center"><img src="screenshots/settings.png" width="220"><br><b>Appearance &amp; settings</b></td>
+  </tr>
+</table>
+</div>
 
 ---
 
