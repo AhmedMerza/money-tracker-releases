@@ -8,7 +8,7 @@ It reads your bank text messages, turns each one into a categorized transaction,
 and nudges you to review the few it isn't sure about. No account. No server.
 **Everything stays on your phone.**
 
-[![Download latest](https://img.shields.io/github/v/release/AhmedMerza/money-tracker-releases?label=Download%20APK&style=for-the-badge&color=22C55E)](https://github.com/AhmedMerza/money-tracker-releases/releases/latest)
+[![Download latest](https://img.shields.io/github/v/release/AhmedMerza/money-tracker-releases?label=Download%20APK&style=for-the-badge&color=2ea043)](https://github.com/AhmedMerza/money-tracker-releases/releases/latest)
 
 </div>
 
